@@ -37,7 +37,3 @@ In this project, I used BigQuery SQL to transform raw customer order data into a
 - Add more product mappings.
 - Expand duplicate checks.
 - Build a dashboard from the cleaned dataset.
-
-## Contact
-
-Built
